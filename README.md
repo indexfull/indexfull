@@ -14,6 +14,6 @@
 🔸Impressed by C
   
   
-🎯Goals: Back-End➡️Microservices➡️Cloud Security 🚀
+🎯Goals: Back-End➡️Microservices➡️Cloud Security
 
-📋Interests: [Cloud, Security, Linux Administration, Networking, Low Level Programming]
+📋Interests: Cloud, Security, Linux Administration, Networking, Low Level Programming
