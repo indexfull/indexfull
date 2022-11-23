@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Folks+👋🏼)
 
-
+---
 ⚡A Quick Introduction
 ---
 ☣️A 10 years Supply Chain practitioner transitioning to programming 💪🏼
