@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Folks+!+I+am+afraid+the+Ind...)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Folks!+I+am+afraid+the+Ind...)
 
 ---
 ⚡A Quick Introduction
