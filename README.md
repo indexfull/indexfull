@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+folks!+Let's+link+up+🔗... )
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+folks!+👋++Let's+link+up!+🔗... )
 ---
 ⚡A Quick Introduction
 ---
