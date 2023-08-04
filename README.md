@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Folks!+I+am+afraid+the+Ind...)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+folks!+Let's+link+up+🔗... )
 
 ---
 ⚡A Quick Introduction
@@ -16,4 +16,4 @@
   
 🎯Goals: Back-End➡️Microservices➡️Cloud Security
 
-📋Interests: Cloud, Security, Linux Administration, Networking, Low Level Programming
+📋Interests: Python, Javascript, Web Development, Low-Code, Cloud, InfoSec.
