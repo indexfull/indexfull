@@ -1,18 +1,15 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+folks!+👋++Let's+link+up!+🔗... )
+⚡ A Quick Introduction
 ---
-⚡A Quick Introduction
----
-☣️A 10 years Supply Chain practitioner transitioning to programming 💪🏼
+💪🏼 A 10 years Supply Chain practitioner transitioning to programming 
 
-🔸First learned language: Python 🐍
+🟩 1st language learned: Python.
+🟩 2nd language learned: Javascript.
+🟩 Other: HTML/CSS.
   
-🔸Learning Go...
+🦀 Curious about Rust 
   
-🔸Curious about Rust 🦀
-  
-🔸Impressed by C
-  
-  
-🎯Goals: Back-End➡️Microservices➡️Cloud Security
+🎯 Goals: Web Development ➡️ Web Applications Security.
 
-📋Interests: Python, Javascript, Web Development, Low-Code, Cloud, InfoSec.
+📋 Interests: Music, Gaming, Youtube.
+
+   ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Let's+link+up!👋🔗...)
